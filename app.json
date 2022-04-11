@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-theme-switcher",
+    "slug": "expo-theme-switcher",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
