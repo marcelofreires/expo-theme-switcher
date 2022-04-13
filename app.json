@@ -8,6 +8,8 @@
     ],
     "ios": {
       "bundleIdentifier": "org.name.expothemeswitcher"
-    }
+    },
+    "description": "This project has created to learn about theming on React Native.",
+    "githubUrl": "https://github.com/marcelofreires/expo-theme-switcher"
   }
 }
